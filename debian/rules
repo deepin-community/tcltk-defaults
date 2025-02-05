@@ -6,8 +6,8 @@
 #export DH_VERBOSE=1
 
 VER    := 8.6
-TCLVER := 8.6.11+dfsg-1~
-TKVER  := 8.6.11-1~
+TCLVER := 8.6.14+dfsg-1~
+TKVER  := 8.6.14-1~
 COMPATVER := 8.6.0-2
 
 include /usr/share/dpkg/architecture.mk
