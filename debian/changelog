@@ -1,9 +1,3 @@
-tcltk-defaults (8.6.17) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 18:07:46 +0800
-
 tcltk-defaults (8.6.16) unstable; urgency=medium
 
   * Bump version to match Tcl/Tk in trixie.
